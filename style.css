@@ -38,3 +38,8 @@ h1 {
   color: white;
   padding: 16px;
 }
+
+body{
+  text-align: center;
+  justify-content: center;
+}
