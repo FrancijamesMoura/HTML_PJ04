@@ -1,10 +1,40 @@
-h2 {
-    color: rgb(42, 165, 124);
+header {
+  font-family: 'Lucida Sans', Verdana, sans-serif;
 }
-h3 {
-    color: rgb(0, 118, 139);
+
+header, footer {
+  background: #190934;
+  color: white;
+  padding: 16px;
 }
-ul {
-    background-color:rgb(81, 167, 15)
-    
+
+#logo-header {
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+main {
+  background-color: rgb(134, 178, 158);
+  padding: 16px;
+  color: black;
+  font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+img {
+  margin: 32px;
+}
+
+.rede-social {
+  font-family: 'Segoe UI', Verdana, sans-serif;
+  margin: 8px;
+}
+
+h1 {
+  background: #190934;
+  color: white;
+  padding: 16px;
 }
